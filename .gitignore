@@ -1,1 +1,5 @@
 .vs/Grunt-Ascension-Demonstration/v15/Server/sqlite3/db.lock
+node_modules
+package-lock.json
+../../bin
+../../obj
